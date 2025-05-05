@@ -1,1 +1,0 @@
-# QA_AQA_JAVA
